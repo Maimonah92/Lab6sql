@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="SmallLFontSize">14sp</dimen>
+    <dimen name="InputFontSize">16sp</dimen>
+    <!-- Add other dimension values as needed -->
+</resources>
+
